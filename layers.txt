@@ -18,3 +18,5 @@ factories ->
   -> cria o objeto final para fazermos as chamadas
   -> retorna a função que inicializa o fluxo daquele componente (init)
 
+  index.js -> é responsável por chamar todas as camadas
+
